@@ -9,3 +9,12 @@ https://github.com/2303A52464/AIML-2303A52464/blob/main/AIML_Week_3.ipynb
 
 WEEK 4
 https://github.com/2303A52464/AIML-2303A52464/blob/main/AIML_Week_4.ipynb
+
+WEEK 5
+https://github.com/2303A52464/AIML-2303A52464/blob/main/AIML_Week_5.ipynb
+
+WEEK 6
+https://github.com/2303A52464/AIML-2303A52464/blob/main/AIML_Week_6_.ipynb
+
+WEEK 7
+https://github.com/2303A52464/AIML-2303A52464/blob/main/AIML_Week_7.ipynb
